@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jaiprakash Nagar.
 - 👀 I’m contributing as a ReactJS Developer at SoftOps Technologies.
-- 🌱 I’m intersted in learning MERN Stack Development.
+- 🌱 I’m interested in learning MERN Stack Development.
 - 💞️ I’m looking to collaborate with 'Techie', 'Freelancer', 'Startups'or other communities.
 - 📫 You can reach me jaiprakashnagar07@gmail.com
 
